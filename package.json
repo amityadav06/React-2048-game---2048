@@ -42,5 +42,13 @@
     "css-loader": "^4.3.0",
     "style-loader": "^1.2.1",
     "webpack-cli": "^3.3.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amityadav06/React-2048-game---2048.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amityadav06/React-2048-game---2048/issues"
+  },
+  "homepage": "https://github.com/amityadav06/React-2048-game---2048#readme"
 }
